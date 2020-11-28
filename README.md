@@ -18,3 +18,7 @@ Welcome to my portfolio!
 
 
 ## Find me on
+
+* LinkedIn: www.linkedin.com/in/arthav-mane 
+* Github: https://github.com/arthavmane
+* Kaggle: https://www.kaggle.com/arthavmane
