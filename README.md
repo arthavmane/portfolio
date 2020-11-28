@@ -13,10 +13,10 @@ Welcome to my portfolio!
 
 ## Publications
 * Arthav Mane, Janhavi Bhopale, Ria Motghare and Priya Chimurkar, "An Overview of Speaker Recognition and Implementation of Speaker Diarization with Transcription," *International Journal of Computer Applications*, vol. 175, no. 31, pp. 1-6, November 2020. doi: 10.5120/ijca2020920867.
-[View Paper](https://www.ijcaonline.org/archives/volume175/number31/mane-2020-ijca-920867.pdf)
+[View paper](https://www.ijcaonline.org/archives/volume175/number31/mane-2020-ijca-920867.pdf)
 
 * Arthav Mane, Janhavi Bhopale, Raksha Jain and Priya Chimurkar, "A Low-Cost Implementation of an IoT based Food Ordering System," *Grenze International Journal of Engineering and Technology*, vol. 6, issue 2, pp. 123-128, July 2020.
-[View Paper](http://thegrenze.com/pages/servej.php?fn=11_1.pdf&name=A%20Low-Cost%20Implementation%20of%20an%20IoT%20basedFood%20Ordering%20System&id=726&association=GRENZE&journal=GIJET&year=2020&volume=6&issue=2)
+[View paper](http://thegrenze.com/pages/servej.php?fn=11_1.pdf&name=A%20Low-Cost%20Implementation%20of%20an%20IoT%20basedFood%20Ordering%20System&id=726&association=GRENZE&journal=GIJET&year=2020&volume=6&issue=2)
 
 
 ## Certifications
