@@ -1,14 +1,10 @@
-# portfolio
-
-Welcome to my portfolio!
-
-## About me
+[//]: <> (## About me)
 
 
-## What am I currently working on?
+[//]: <> (## What am I currently working on?)
 
 
-## Past projects
+[//]: <> (## Past projects)
 
 
 ## Publications
