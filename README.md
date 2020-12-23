@@ -1,7 +1,8 @@
 **Welcome to my portfolio!**
 
 
-[//]: <> (## About me)
+## About me
+Hi! My name is Arthav Mane. 
 
 
 [//]: <> (## What am I currently working on?)
@@ -33,3 +34,4 @@
 * [LinkedIn](https://www.linkedin.com/in/arthav-mane)
 * [Github](https://github.com/arthavmane)
 * [Kaggle](https://www.kaggle.com/arthavmane)
+* [Email](manearthav03@gmail.com)
