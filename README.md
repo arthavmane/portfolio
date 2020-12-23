@@ -2,7 +2,7 @@
 
 
 ## About me
-Hi! My name is Arthav Mane. 
+Hi! My name is Arthav Mane. I'm currently pursuing my B.Tech. in Electronics Engineering from [Sardar Patel Institute of Technology](https://www.spit.ac.in/), Mumbai.
 
 
 [//]: <> (## What am I currently working on?)
