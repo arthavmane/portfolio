@@ -2,7 +2,7 @@
 
 
 ## About me
-Hi! My name is Arthav Mane. I'm currently pursuing my B.Tech. in Electronics Engineering from [Sardar Patel Institute of Technology](https://www.spit.ac.in/), Mumbai.
+Hi! My name is Arthav Mane. I'm currently pursuing my B.Tech. in Electronics Engineering from [Sardar Patel Institute of Technology](https://www.spit.ac.in/), Mumbai. My interests are in data science, machine learning, computer vision, natural language processing, speech recognition and artificial intelligence. I like working with unstructured data such as images, videos, texts and audio.
 
 
 [//]: <> (## What am I currently working on?)
