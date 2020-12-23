@@ -2,7 +2,7 @@
 
 
 ## About me
-![](https://media-exp1.licdn.com/dms/image/C5103AQFXVNSzNGALCQ/profile-displayphoto-shrink_400_400/0/1582808504360?e=1614211200&v=beta&t=goLQYh_eSNJivXuBRRptdU0qYa9QWL-B2iboIvOQHlE =250x250)
+![](/images/my-image.png)
 
 Hi! My name is Arthav Mane. I'm currently pursuing my B.Tech. in Electronics Engineering from [Sardar Patel Institute of Technology](https://www.spit.ac.in/), Mumbai. My interests are in data science, machine learning, computer vision, natural language processing, speech recognition and artificial intelligence. I like working with unstructured data such as images, videos, texts and audio.
 
