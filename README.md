@@ -34,4 +34,4 @@ Hi! My name is Arthav Mane.
 * [LinkedIn](https://www.linkedin.com/in/arthav-mane)
 * [Github](https://github.com/arthavmane)
 * [Kaggle](https://www.kaggle.com/arthavmane)
-* [Email](manearthav03@gmail.com)
+* [Email](mailto:manearthav03@gmail.com)
