@@ -14,9 +14,9 @@ Hi! My name is Arthav Mane. I'm currently pursuing my M.S. in Computer Science a
 
 
 ## Publications
-* Arthav Mane, Janhavi Bhopale, Ria Motghare and Priya Chimurkar, "**An Overview of Speaker Recognition and Implementation of Speaker Diarization with Transcription**," *International Journal of Computer Applications*, vol. 175, no. 31, pp. 1-6, November 2020. doi: 10.5120/ijca2020920867. \[[View abstract](https://www.ijcaonline.org/archives/volume175/number31/31646-2020920867) | [View paper](https://www.ijcaonline.org/archives/volume175/number31/mane-2020-ijca-920867.pdf)]
+* Arthav Mane, Janhavi Bhopale, Ria Motghare and Priya Chimurkar, "**An Overview of Speaker Recognition and Implementation of Speaker Diarization with Transcription**," *International Journal of Computer Applications*, vol. 175, no. 31, pp. 1-6, November 2020. doi: 10.5120/ijca2020920867. \[[View abstract](https://www.ijcaonline.org/archives/volume175/number31/31646-2020920867) \| [View paper](https://www.ijcaonline.org/archives/volume175/number31/mane-2020-ijca-920867.pdf)]
 
-* Arthav Mane, Janhavi Bhopale, Raksha Jain and Priya Chimurkar, "**A Low-Cost Implementation of an IoT based Food Ordering System**," *Grenze International Journal of Engineering and Technology*, vol. 6, issue 2, pp. 123-128, July 2020. \[[View abstract](http://thegrenze.com/index.php?display=page&view=journalabstract&absid=726&id=8) | [View paper]()]
+* Arthav Mane, Janhavi Bhopale, Raksha Jain and Priya Chimurkar, "**A Low-Cost Implementation of an IoT based Food Ordering System**," *Grenze International Journal of Engineering and Technology*, vol. 6, issue 2, pp. 123-128, July 2020. \[[View abstract](http://thegrenze.com/index.php?display=page&view=journalabstract&absid=726&id=8) \| [View paper]()]
 
 
 ## Certifications
