@@ -28,7 +28,7 @@ Hi! My name is Arthav Mane. I'm currently pursuing my M.S. in Computer Science a
 * "**Python for Data Science and Machine Learning Bootcamp**", via Udemy. [View certificate](https://ude.my/UC-4b46f628-d897-4387-a1ba-83066b24de6a)
 * "**SQL - MySQL for Data Analytics and Business Intelligence**", via Udemy. [View certificate](https://ude.my/UC-f9cf6125-3f8c-4195-ab76-de42734c9a05)
 * "**Complete Python Bootcamp: Go from zero to hero in Python 3**", via Udemy. [View certificate](https://ude.my/UC-d82975ad-bb79-44f4-9114-5107daa2f741)
-* "**Embedded C**" from SafeTTy Certified Programme.
+* "**Embedded C**" from SafeTTy Certified Programme. [View certificate](https://arthavmane.github.io/portfolio/documents/EmbeddedC.pdf)
 
 
 ## Find me on
