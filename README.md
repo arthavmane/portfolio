@@ -1,10 +1,10 @@
-**Welcome to my portfolio!**
+**Welcome!**
 
 
 ## About me
 ![](/images/my-image.png)
 
-Hi! My name is Arthav Mane. I'm currently pursuing my M.S. in Computer Science and Engineering from University at Buffalo. My interests are in data science, machine learning, computer vision, natural language processing, speech recognition and artificial intelligence. I like working with unstructured data such as images, videos, texts and audio.
+Hi! My name is Arthav Mane. I'm currently pursuing my M.S. in Computer Science and Engineering from University at Buffalo, NY. My main interests are data science, machine learning and computer vision.
 
 
 [//]: <> (## What am I currently working on?)
@@ -23,7 +23,6 @@ Hi! My name is Arthav Mane. I'm currently pursuing my M.S. in Computer Science a
 
 ## Certifications
 
-*2020*
 * "**Deep Learning**" offered by deeplearning.ai, via Coursera. [View certificate](https://coursera.org/share/1ac2322645be1c0b4dd30702f149b86b)
 * "**Applied Data Science with Python**" offered by University of Michigan, via Coursera. [View certificate](https://coursera.org/share/d6225643d16287fdeb7c592340e27d48)
 * "**Mathematics for Machine Learning**" offered by Imperial College London, via Coursera. [View certificate](https://coursera.org/share/5c657feb6c7cebf99c4c11f8ad7950b2)
@@ -31,13 +30,11 @@ Hi! My name is Arthav Mane. I'm currently pursuing my M.S. in Computer Science a
 * "**Python for Data Science and Machine Learning Bootcamp**", via Udemy. [View certificate](https://ude.my/UC-4b46f628-d897-4387-a1ba-83066b24de6a)
 * "**SQL - MySQL for Data Analytics and Business Intelligence**", via Udemy. [View certificate](https://ude.my/UC-f9cf6125-3f8c-4195-ab76-de42734c9a05)
 * "**Complete Python Bootcamp: Go from zero to hero in Python 3**", via Udemy. [View certificate](https://ude.my/UC-d82975ad-bb79-44f4-9114-5107daa2f741)
-
-*2018*
 * "**Embedded C**" from SafeTTy Certified Programme.
 
 
 ## Find me on
 * [LinkedIn](https://www.linkedin.com/in/arthav-mane)
-* [Github](https://github.com/arthavmane)
 * [Kaggle](https://www.kaggle.com/arthavmane)
+* [Github](https://github.com/arthavmane)
 * [Email](mailto:manearthav03@gmail.com)
