@@ -12,7 +12,7 @@ Hi! My name is Arthav Mane. I'm currently pursuing my M.S. in Computer Science a
 
 [//]: <> (## Past projects)
 
-[View **Resume**](https://arthavmane.github.io/portfolio/documents/RESUME.pdf)
+#### [View **Resume**](https://arthavmane.github.io/portfolio/documents/RESUME.pdf)
 
 
 ## Publications
