@@ -12,6 +12,8 @@ Hi! My name is Arthav Mane. I'm currently pursuing my M.S. in Computer Science a
 
 [//]: <> (## Past projects)
 
+[View **Resume**](https://arthavmane.github.io/portfolio/documents/RESUME.pdf)
+
 
 ## Publications
 * Janhavi Bhopale, Rugved Bhise, Arthav Mane and Kiran Talele, "**A Review-and-Reviewer based approach for Fake Review Detection**," *2021 Fourth IEEE International Conference on Electrical, Computer and Communication Technologies (ICECCT)*, Tamil Nadu, India, 15-17 September 2021. *(yet to be published)* \[[View certificate](https://arthavmane.github.io/portfolio/documents/FakeReviewCertificate.pdf)]
