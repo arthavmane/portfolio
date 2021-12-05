@@ -36,7 +36,8 @@ Hi! My name is Arthav Mane. I'm currently pursuing my M.S. in Computer Science a
 
 
 ## Find me on
+* [Email](mailto:manearthav03@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/arthav-mane)
 * [Kaggle](https://www.kaggle.com/arthavmane)
 * [Github](https://github.com/arthavmane)
-* [Email](mailto:manearthav03@gmail.com)
+* [Google Scholar](https://scholar.google.com/citations?user=rKm79SAAAAAJ&hl=en)
