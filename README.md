@@ -16,7 +16,7 @@ Hi! My name is Arthav Mane. I'm currently pursuing my M.S. in Computer Science a
 
 
 ## Publications
-* Janhavi Bhopale, Rugved Bhise, Arthav Mane and Kiran Talele, "**A Review-and-Reviewer based approach for Fake Review Detection**," *2021 Fourth IEEE International Conference on Electrical, Computer and Communication Technologies (ICECCT)*, Tamil Nadu, India, 15-17 September 2021. *(yet to be published)* \[[View certificate](https://arthavmane.github.io/portfolio/documents/FakeReviewCertificate.pdf)]
+* Janhavi Bhopale, Rugved Bhise, Arthav Mane and Kiran Talele, "**A Review-and-Reviewer based approach for Fake Review Detection**," *2021 Fourth IEEE International Conference on Electrical, Computer and Communication Technologies (ICECCT)*, pp. 1-6, doi: 10.1109/ICECCT52121.2021.9616697. \[[View paper](https://ieeexplore.ieee.org/document/9616697)]
 
 * Arthav Mane, Janhavi Bhopale, Ria Motghare and Priya Chimurkar, "**An Overview of Speaker Recognition and Implementation of Speaker Diarization with Transcription**," *International Journal of Computer Applications*, vol. 175, no. 31, pp. 1-6, November 2020. doi: 10.5120/ijca2020920867. \[[View abstract](https://www.ijcaonline.org/archives/volume175/number31/31646-2020920867) \| [View paper](https://www.ijcaonline.org/archives/volume175/number31/mane-2020-ijca-920867.pdf)]
 
