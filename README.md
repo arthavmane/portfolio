@@ -4,7 +4,7 @@
 ## About me
 <!-- ![](/images/my-image.png) -->
 
-Hi! My name is Arthav Mane. I'm currently pursuing my M.S. in Computer Science and Engineering from University at Buffalo, NY. My main interests are data science, machine learning and computer vision.
+Hi! My name is Arthav Mane. I'm currently pursuing my M.S. in Computer Science and Engineering from University at Buffalo, NY. My main areas of focus are machine learning, computer vision and artificial intelligence.
 
 
 <!-- ## What am I currently working on? -->
